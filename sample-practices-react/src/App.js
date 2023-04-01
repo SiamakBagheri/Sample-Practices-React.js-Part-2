@@ -1,12 +1,14 @@
-import { BrowserRouter } from "react-router-dom";
+// import { BrowserRouter } from "react-router-dom";
 import "./App.css";
-import Core from "./Projects/Core";
+import RouterApp from "./Projects/PracticesRouting/RouterApp";
+// import Core from "./Projects/Core";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Core />
-    </BrowserRouter>
+    // <BrowserRouter>
+    //   <Core />
+    // </BrowserRouter>
+    <RouterApp />
   );
 }
 

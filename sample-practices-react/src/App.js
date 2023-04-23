@@ -1,10 +1,10 @@
 import "./App.css";
-import Quiz from "./Projects/Quiz/Quiz";
+import TWT2 from "./Projects/TWT/TWT2";
 
 function App() {
   return (
     <>
-      <Quiz />
+      <TWT2 />
     </>
   );
 }
